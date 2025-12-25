@@ -1,0 +1,16 @@
+ul {
+  display: flex;
+  gap: 1rem;
+}
+
+ul > li {
+  border-radius: 5px;
+  padding: 0.5rem 1rem;
+  background-color: tomato;
+  list-style: none;
+}
+
+ul > li > a {
+  color: white;
+  text-decoration: none;
+}

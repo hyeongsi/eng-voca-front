@@ -1,0 +1,13 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 2em;
+  box-shadow: 0 0 1em #0003;
+  background-color: #fff;
+}
+
+.button-group {
+  display: flex;
+  gap: 1em;
+}
